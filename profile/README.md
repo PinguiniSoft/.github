@@ -1,5 +1,5 @@
 # PinguiniSoft
-We are a group of 3 people that started this organization so that we can easier manage our commerical projects.\
+We are a group of 4 people that started this organization so that we can easier manage our commerical projects.\
 Let's see where will it bring us!
 
 # TECH STACK CUZ YOLO 
